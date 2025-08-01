@@ -1,5 +1,7 @@
 # Love Score Calculator
 
+[Live Demo](https://love-score-calculator.vercel.app)
+
 A love score calculator app built with Next.js and deployed on Vercel.
 
 ## Features
